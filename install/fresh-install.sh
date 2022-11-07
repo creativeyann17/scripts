@@ -1,0 +1,1 @@
+sudo apt-get install tree libgl1-mesa-dev visualvm flatpak curl wget vlc gimp blender transmission gcc-multilib g++-multilib npm git maven upx wrk scala gparted ttf-mscorefonts-installer openjdk-8-jdk openjdk-11-jdk mesa-utils gnome-tweaks htop baobab gnome-shell-extension-manager
