@@ -20,7 +20,8 @@
 - install vscode / slack from app installer
 - install chrome / 01Password from downloaded packages
 - create swap with swap-file-*.sh
-- fresh-install.sh + zsh.sh + any other *.sh 
+- fresh-install.sh + zsh.sh + any other *.sh
+- \* in ubuntu tweaks top bar display day ...
 - \* add plugins into .zshrc
 - \* intellij CE download + create desktop icon
 
