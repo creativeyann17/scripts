@@ -38,3 +38,11 @@
 
 # GitHub SSH
 - copy SSH keys from 01Password into ~/.ssh
+
+# Headset
+If mic not working add the following in file `/etc/modprobe.d/alsa-base.conf`
+```
+options snd-usb-audio index=0
+options snd-hda-intel model=auto
+options snd-hda-intel model=,dell-headset-multi
+```
