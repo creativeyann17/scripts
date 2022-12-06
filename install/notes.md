@@ -17,6 +17,7 @@
 # TODO new installation
 - activate nvidia driver
 - \* change Ubuntu settings
+- Change keyboard layout to English US Alt. Intl. (pour les accents) 
 - install vscode / slack / postman / discord from app installer
 - install chrome / 01Password from downloaded packages
 - create swap with swap-file-*.sh
